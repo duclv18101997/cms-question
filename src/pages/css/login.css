@@ -1,0 +1,32 @@
+.login {
+  background-image: url("../images/background.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeate;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+}
+
+.form-validate {
+  margin: 0 auto;
+  width: 400px;
+  height: 300px;
+}
+
+.logo-login {
+  text-align: center;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 16px;
+}
+.invalid-feedback {
+  font-size: 14px;
+}
+
+.error-user-pass {
+  color: red;
+}
